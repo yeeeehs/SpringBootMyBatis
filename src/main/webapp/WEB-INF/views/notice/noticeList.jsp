@@ -64,7 +64,7 @@
             }
         %>
     </div>
-    <a href="/notice/noticeReg">글쓰기</a>
 </div>
+<a href="/notice/noticeReg">글쓰기</a>
 </body>
 </html>
